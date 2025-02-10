@@ -1,3 +1,3 @@
 # amazon-clone
 
-my first front-end project with git-hub
+my first Front-end project with git-hub
